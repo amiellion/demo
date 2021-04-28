@@ -1,6 +1,7 @@
 {
   "users":{
     "id": 1,
-    "name": "Amiel"
+    "firstName": "Amiel Bryan",
+    "lastName": "Gaudia"
   }   
 }
