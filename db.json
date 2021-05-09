@@ -1,3 +1,29 @@
 {
-  "users":123456
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },
+    {
+      "id": 2,
+      "firstName": "Fname2 ",
+      "lastName": "Lname2",
+    },
+    {
+      "id": 3,
+      "firstName": "Fname3 ",
+      "lastName": "Lname3",
+    },
+    {
+      "id": 4,
+      "firstName": "Fname4 ",
+      "lastName": "Lname4",
+    },
+    {
+      "id": 5,
+      "firstName": "Fname5 ",
+      "lastName": "Lname5",
+    },
+  ]
 }
