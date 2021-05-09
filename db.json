@@ -1,7 +1,25 @@
 {
-  "users":{
-    "id": 1,
-    "firstName": "Amiel Bryan",
-    "lastName": "Gaudia"
-  }   
+  "users":[
+    {
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },{
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },{
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },{
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },{
+      "id": 1,
+      "firstName": "Fname1 ",
+      "lastName": "Lname1",
+    },
+  ]
 }
